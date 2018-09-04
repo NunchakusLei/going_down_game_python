@@ -25,7 +25,7 @@ SOFTWARE. -->
 
 This is the implementation of Going Down Game in python 3.
 
-![alt text][gaming_screenshot]
+![alt text][gaming_screencast]
 
 ---
 
@@ -72,3 +72,4 @@ python3 going_down_game.py
 ---
 
 [gaming_screenshot]: ./Doc/images/going_down_game_screenshot.png "gaming screenshot"
+[gaming_screencast]: ./Doc/images/going_down_game_screencast.gif "gaming screenshot"
