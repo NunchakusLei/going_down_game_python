@@ -68,6 +68,7 @@ python3 going_down_game.py
 # References
 
 - https://github.com/NunchakusLei/collision-engine-2d
+- https://giphy.com/
 
 ---
 
